@@ -13,7 +13,6 @@ end
 def greeting(greeting, name)
   greeting = "Hi there,"
   name = "Bobby"
-  greeting("Hi there, #{name}")
 end
 
 def return_a_value(phrase)
