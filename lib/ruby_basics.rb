@@ -24,6 +24,6 @@ def last_evaluated_value(phrase)
   return phrase
 end
 
-def pizza_party(name="pepperoni")
+def pizza_party(name="cheese")
   name
 end
