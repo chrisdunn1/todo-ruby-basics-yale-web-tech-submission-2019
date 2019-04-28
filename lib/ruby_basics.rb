@@ -15,10 +15,10 @@ def greeting(greeting, name)
   name = "Bobby"
 end
 
-def return_a_value(phrase)
-  phrase
+def return_a_value
+  puts "Nice"
 end
-return phrase("Nice")
+
 
 
 def last_evaluated_value(phrase)
